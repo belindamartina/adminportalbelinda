@@ -1,0 +1,18 @@
+h1 {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.cover {
+    width: 100px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+
+div.home {
+    height: 100vh;
+    background-image: url(../img/moroccan-flower.png);
+    background-position: center top;
+}
